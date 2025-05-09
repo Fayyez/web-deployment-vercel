@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project documentation",
+    "description": "Write detailed docs for the API endpoints",
+    "completed": false,
+    "createdAt": "2025-05-09T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Fix homepage layout",
+    "description": "Address responsive design issues on the homepage",
+    "completed": true,
+    "createdAt": "2025-05-08T10:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Meeting with client",
+    "description": "Discuss project requirements and timeline",
+    "completed": false,
+    "createdAt": "2025-05-09T14:00:00.000Z"
+  }
+]
